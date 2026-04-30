@@ -5,3 +5,4 @@ Github repo to store all code + files related to CUPLA piece
 * CULPA_Data_Analysis (2).ipynb -- This is Emily Ta's code and the corresponding graphics utilizing this data analysis will be marked by her name
 * compass_analysis.ipynb -- This is Amabelle Alcala's code and the corresponding graphics utilizing this file will be marked by her name
 * culpa_review_compass_page.html -- This is Amabelle Alcala's html file for the compass graphic
+* adjective_analysis.py, length_analysis.py, rating_only.charts.py -- This is Claire Jong's code and the correpsonding graphics utilizing this data analysis will be marked by her name.
