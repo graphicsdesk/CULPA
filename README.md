@@ -1,5 +1,5 @@
 # CULPA
-Github repo to store all code + files related to CUPLA piece
+Github repo to store all code + files related to CULPA piece
 
 **File Index**
 * CULPA_Data_Analysis (2).ipynb -- This is Emily Ta's code and the corresponding graphics utilizing this data analysis will be marked by her name
